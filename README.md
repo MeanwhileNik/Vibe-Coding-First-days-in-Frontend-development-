@@ -1,4 +1,4 @@
-# Abou me
+# About me
 28 years old tired account manager who is trying to become a frontend developer. Stay tuned my dudes ^_^
 ## About Scrimba
 
